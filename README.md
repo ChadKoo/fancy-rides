@@ -6,5 +6,4 @@ Welcome to Fancy Rides, the ultimate destination for all things automotive. At F
 1. Git and Github
 2. Vs Code
 3. Google Chrome
-4. Javascript
 
